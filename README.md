@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @EternalFireStudios
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on character designers and game developers
+- 👋 Hi, I’m Cahangir
+- 👀 I’m interested in website and blokchain development
+- 🌱 I’m currently learning python
 - 📫 How to reach me linkedin.com/in/cahangir-allahverdiyev-150472206 
 
 <!---
